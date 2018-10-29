@@ -1,0 +1,10 @@
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\obj\Debug\DownLoadForm.DownLoadForm.resources
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\obj\Debug\DownLoadForm.Properties.Resources.resources
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\obj\Debug\DownLoadForm.csproj.GenerateResource.Cache
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\bin\Debug\DownLoadForm.exe
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\bin\Debug\DownLoadForm.pdb
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\obj\Debug\DownLoadForm.exe
+D:\Data\UPS資料\新平台資料\AutoUpdate\DownLoadForm\obj\Debug\DownLoadForm.pdb
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\bin\Debug\DownLoadForm.exe
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\bin\Debug\DownLoadForm.pdb

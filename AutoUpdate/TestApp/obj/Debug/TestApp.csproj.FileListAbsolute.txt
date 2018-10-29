@@ -1,0 +1,10 @@
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\bin\Debug\TestApp.exe
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\bin\Debug\TestApp.pdb
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\bin\Debug\AutoUpdate.dll
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\bin\Debug\AutoUpdate.pdb
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\obj\Debug\TestApp.exe
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\obj\Debug\TestApp.pdb
+D:\Data\UPS資料\新平台資料\AutoUpdate\TestApp\obj\Debug\TestApp.TestForm.resources
